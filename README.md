@@ -3,7 +3,7 @@ Hi there 👋 I am Dharmesh a Full Stack Python Developer!
 
 Welcome to my GitHub profile! I'm a passionate Python Developer eager to create impactful software solutions. As a fresher in the tech industry, I am continually expanding my skill set and taking on new challenges. Below, you can learn more about my skills, projects, and how to connect with me. 
 
-- 🎓 Education: B.Tech in CSE from MRIIRS
+- 🎓 Education: B.Tech in CSE from Manav Rachna International Institute of Research and Studies, Faridabad
 - 💻 Tech Stack: Python, Django, Flask, HTML, CSS, MySQL
 - 📚 Currently Learning: JavaScript
 - 🤝 Looking for: Opportunities to collaborate on open-source projects, internships, and entry-level roles in Full Stack Development

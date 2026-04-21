@@ -1,4 +1,4 @@
-Hi there 👋 I am Dharmesh a Full Stack Python Developer!
+Hi there 👋 I am Dharmesh a Full Stack Web Developer!
 ==========================
 
 Welcome to my GitHub profile! I'm a passionate Python Developer eager to create impactful software solutions. As a fresher in the tech industry, I am continually expanding my skill set and taking on new challenges. Below, you can learn more about my skills, projects, and how to connect with me. 
